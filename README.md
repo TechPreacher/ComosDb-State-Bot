@@ -13,7 +13,7 @@ This sample builds on the blog post ["Manage custom state data with Azure Cosmos
 4. Fill in the fields. For the *API* field, select *SQL (DocumentDB)*. When done filling in all the fields, click the *Create* button at the bottom of the screen to deploy the new database. 
 5. After the new database is deployed, navigate to your new database. Click *Access keys* to find keys and connection strings. Your bot will use this information to call the storage service to save state data.
 
-###Install NuGet packages
+### Install NuGet packages
 1. Open an existing C# bot project, or create a new one using the Bot template in Visual Studio. 
 2. Install the following NuGet packages:
 
