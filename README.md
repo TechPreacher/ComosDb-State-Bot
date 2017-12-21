@@ -20,6 +20,8 @@ This sample builds on the blog post ["Manage custom state data with Azure Cosmos
 - Microsoft.Bot.Builder.Azure
 - Autofac.WebApi2
 
+**Make sure to update all NuGet Packages! The project may not compile without the latest versions!**
+
 Replace the *CosmosDB URI* and *CosmosDB Key* in the Web.config file with the values displayed in the Azure Portal.
 
 ### Run your bot app
